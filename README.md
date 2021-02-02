@@ -1,6 +1,4 @@
-# 2 Responsive Portfolio
-
-## This is my raw profile page
+# Personal Portfolio
 
 ### This is the link to the GitHub Repo
 
@@ -10,7 +8,7 @@ https://github.com/Martank949/Homework-2
 
 https://martank949.github.io/Homework-2/
 
-# The Ultimate README Generator
+##
 
 [![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")]
 
@@ -23,12 +21,12 @@ https://martank949.github.io/Homework-2/
 
 ## GitHub Username:
 
-martank949
-GitHub page at the following Link: [GitHub](https://github.com/martank949)
+Username: martank949
+GitHub: [GitHub](https://github.com/martank949)
 
 ## Email Address:
 
-martinzb949@gmail.com
+Email: martinzb949@gmail.com
 
 ## Description of my Project:
 
