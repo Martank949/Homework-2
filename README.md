@@ -2,11 +2,11 @@
 
 ### This is the link to the GitHub Repo
 
-https://github.com/Martank949/Homework-2
+https://github.com/Martank949/Personal-Porfolio
 
 ### This is the link to the live page:
 
-https://martank949.github.io/Homework-2/
+https://martank949.github.io/Personal-Porfolio/
 
 ##
 
